@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/logging-functionality/logging.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/recipe-repository/recipe-crud-operations.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sqlscript/users_and_recipes_script.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/user-repository/user-crud-operations.go" dialect="GenericSQL" />
+  </component>
+</project>
